@@ -1,0 +1,103 @@
+nav {
+    background-color: aqua;
+     display: flex;
+     justify-content:space-between;
+    
+ }
+ li,ul{
+     display: inline-block;
+     font-size: 30px;
+    
+    
+ }
+ a{
+     color: black;
+ }
+ .h11{
+     text-transform: uppercase;
+     font-size: 50px;
+ }
+ .p{
+     display: flex;
+     justify-content:space-between;
+ }
+ .p img{
+     width: 100px;
+     height: 100px;
+ }
+ .i{
+     flex: auto;
+     margin: 20px;   
+ }
+ .h11{
+     flex: auto;
+     margin: 20px; 
+     font-size: 45px;
+ }
+ .h11::first-letter{
+     color: rgb(208, 79, 167);
+     font-size: 55px;
+     
+ }
+ header{
+     margin:-3px;
+ }
+ header{
+    margin:-3px;
+}
+h1{
+    font-size: 45px;
+}
+.ro{
+    border:rgb(88, 79, 79) 3px dotted;
+    margin-right: 600px;
+    margin-left: 600px;
+    padding-left: 38px;
+    padding-bottom:20px ;
+    flex: auto;
+    margin: 10px; 
+}
+button{
+    background-color: green;
+    width: 180px;
+}
+select{
+    background-color:pink ;
+    width:70px;
+}
+.prna{
+    text-decoration: underline;
+    
+}
+.ro1{
+    width: 200px;
+}
+.whole{
+    display: flex;
+    justify-content:space-between;
+}
+.whole1{
+    display: flex;
+    justify-content:space-between;
+}
+.logo{
+    display: flex;  
+   
+    
+}
+.logo1,.logo2,.logo3{
+  display: inline-block;
+  margin: 20px;
+    font-size: 30px;
+}
+footer{
+    background-color: darkolivegreen;
+}
+.f{
+    text-transform: capitalize;
+    font-size: 25px;
+}
+.f2,.ow,.li{
+    display: inline-block;
+    margin: 80px;
+}

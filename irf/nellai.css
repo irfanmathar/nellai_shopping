@@ -1,0 +1,98 @@
+nav {
+   background-color: aqua;
+    display: flex;
+    justify-content:space-between;
+   
+   
+}
+li,ul{
+    display: inline-block;
+    font-size: 30px;
+   
+   
+}
+a{
+    color: black;
+}
+.h11{
+    text-transform: uppercase;
+    font-size: 50px;
+}
+.p{
+    display: flex;
+    justify-content:space-between;
+}
+.p img{
+    width: 100px;
+    height: 100px;
+}
+.i{
+    flex: auto;
+    margin: 20px;   
+}
+.h11{
+    flex: auto;
+    margin: 20px; 
+    font-size: 45px;
+}
+.h11::first-letter{
+    color: rgb(208, 79, 167);
+    font-size: 55px;
+    
+}
+header{
+    margin:-3px;
+}
+section{
+  
+}
+.h22{
+    color: rebeccapurple;
+    text-transform: uppercase;
+    font-size: 40px;
+    text-decoration: underline;
+}
+.oil{
+    width: 300px;
+}
+h2{
+    font-size: 25px;
+}
+.p1,.p2{
+   text-align: center;
+   background-color: antiquewhite;
+   flex: auto;
+   padding-top:20px ;
+   font-style: oblique;
+   border-radius: 5px;
+   margin: 20px;
+  
+   
+}
+p{
+    font-size: 20px;
+}
+.ps{
+  display: flex;  
+}
+.logo{
+    display: flex;  
+   
+    
+}
+.logo1,.logo2,.logo3{
+  display: inline-block;
+  margin: 20px;
+    font-size: 30px;
+}
+footer{
+    background-color: darkolivegreen;
+}
+.f{
+    text-transform: capitalize;
+    font-size: 25px;
+}
+.f2,.ow,.li{
+    display: inline-block;
+    margin: 80px;
+}
